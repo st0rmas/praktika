@@ -1,0 +1,9 @@
+Artem Senin Romanovich 2005 1 4 5 5 5
+Vadim Izotov Dmitrievich 2004 1 4 4 4 4
+Artem Vasyliev Alekseevich 2002 3 3 4 4 4
+Ivan Ivanov Ivanovich 2003 2 4 3 3 4
+Sasha Petrov Sergeyevich 2004 2 4 4 4 4
+Maxim Gromov Evgeniyevich 2003 2 3 3 3 3
+Ivan Ivanov Ivanovich 2004 1 5 5 5 5
+Ivan Orlov Sergeyevich 2000 5 4 4 4 4
+Misha Potehkin Alexandrovich 2004 1 4 4 3 4
