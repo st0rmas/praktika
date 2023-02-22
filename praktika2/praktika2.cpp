@@ -49,6 +49,7 @@ void GetDatabaseFromBin(Student* students);
 void ConvertTextbaseToBin(Student* students);
 
 int main() {
+    int a = 5;
     setlocale(LC_ALL, "ru");
     cout << "Введите максимальное количество студентов в базе данных: ";
     TrueNumber(N);  
